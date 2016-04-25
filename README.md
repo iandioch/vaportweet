@@ -17,3 +17,5 @@ access_token
 access_token_secret
 ```
 
+It is also required that there be an empty file called `finished_words.txt` in the directory. This will store all the words the bot has already used.
+
