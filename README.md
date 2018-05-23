@@ -1,6 +1,6 @@
 # vaportweet
 
-A twitter bot that embodies the aesthetic of our meagre existance
+A twitter bot that embodies the aesthetic of our meagre existence
 
 ## Setup
 
